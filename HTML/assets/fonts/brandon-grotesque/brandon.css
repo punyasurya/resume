@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url(Brandon_reg.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Italic';
+    src: url(Brandon_reg_it.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Thin';
+    src: url(Brandon_thin.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Thin Italic';
+    src: url(Brandon_thin_it.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Light';
+    src: url(Brandon_light.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Light Italic';
+    src: url(Brandon_light_it.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Medium';
+    src: url(Brandon_med.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Medium Italic';
+    src: url(Brandon_med_it.otf);
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Brandon Grotesque Bold';
+    src: url(Brandon_bld.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Bold Italic';
+    src: url(Brandon_bld_it.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Black';
+    src: url(Brandon_blk.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Black Italic';
+    src: url(Brandon_blk_it.otf);
+    font-style: italic;
+}
