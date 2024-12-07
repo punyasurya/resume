@@ -1,3 +1,4 @@
 *.ini
 *.htaccess
 _mockups
+.vscode
